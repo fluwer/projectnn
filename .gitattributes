@@ -4,3 +4,4 @@ mmodel3_scripted.pt filter=lfs diff=lfs merge=lfs -text
 model3_0_scripted.pt filter=lfs diff=lfs merge=lfs -text
 model3_IF.pt filter=lfs diff=lfs merge=lfs -text
 model3_IF_30.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
